@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ermaamalia
 - 👀 I’m interested in web design and marketing
-- 🌱 I’m currently learning a lot of things 
-- 💞️ I’m looking to collaborate on yourcompany or project
+- 🌱 I’m currently looking for jobs or freelances
+- 💞️ I’m looking to collaborate on your company or project
 - 📫 You can reach me in erma.amalia@gmail.com
 
 <!---
